@@ -30,7 +30,7 @@ The script begins by creating a text file named passwords.txt. This file will st
 ## Run the script using Python:
 ```bash
 python wifi_password_extractor.py
-
+```
 - The script will create a file named passwords.txt in the same directory with the extracted Wi-Fi names and passwords.
 
 **Disclaimer**
