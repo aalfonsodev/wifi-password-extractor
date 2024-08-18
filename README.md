@@ -37,5 +37,4 @@ python wifi_password_extractor.py
 This script is intended for educational purposes only. Use it responsibly and only on networks where you have permission to access the passwords. Unauthorized access to networks is illegal and unethical.
 
 **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
-Feel free to customize this README further based on your specific needs!
+Feel free to customize further based on your specific needs!
